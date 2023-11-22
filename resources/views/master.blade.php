@@ -416,7 +416,7 @@
                       double click to start editing the text.
                     </p>
                     <a
-                      href="https://nicepage.com/wordpress-themes"
+                      href=""
                       class="u-align-center u-btn u-button-style u-btn-1"
                       >Button</a
                     >
@@ -704,7 +704,7 @@
                       double click to start editing the text.
                     </p>
                     <a
-                      href="https://nicepage.com/c/real-estate-website-templates"
+                      href=""
                       class="u-align-center u-btn u-button-style u-btn-2"
                       >Button</a
                     >
@@ -991,7 +991,7 @@
                       double click to start editing the text.
                     </p>
                     <a
-                      href="https://nicepage.com/wordpress-themes"
+                      href=""
                       class="u-align-center u-btn u-button-style u-btn-3"
                       >Button</a
                     >
@@ -1284,7 +1284,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-16">
                       <a class="u-post-header-link" href="blog/post-5.html"
-                        >Post 6 Headline</a
+                        >Headline 1</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -1316,7 +1316,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-18">
                       <a class="u-post-header-link" href="blog/post-4.html"
-                        >Post 5 Headline</a
+                        >Headline 2</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -1350,7 +1350,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-20">
                       <a class="u-post-header-link" href="blog/post-3.html"
-                        >Post 4 Headline</a
+                        >Headline 3</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -1545,7 +1545,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-16">
                       <a class="u-post-header-link" href="blog/post-5.html"
-                        >Post 6 Headline</a
+                        >Headline 1</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -1577,7 +1577,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-18">
                       <a class="u-post-header-link" href="blog/post-4.html"
-                        >Post 5 Headline</a
+                        >Headline 2</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -1611,7 +1611,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-20">
                       <a class="u-post-header-link" href="blog/post-3.html"
-                        >Post 4 Headline</a
+                        >Headline 3</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -1805,7 +1805,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-16">
                       <a class="u-post-header-link" href="blog/post-5.html"
-                        >Post 6 Headline</a
+                        >Headline 1</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -2482,7 +2482,7 @@
                     <h2
                       class="u-custom-font u-font-titillium-Web u-text u-text-8"
                     >
-                      Government <br />Building
+                       lorem ipsum
                     </h2>
                     <p class="u-text u-text-9">
                       Sample text. Lorem ipsum dolor sit amet, consectetur
@@ -2547,7 +2547,7 @@
                     <h2
                       class="u-custom-font u-font-titillium-Web u-text u-text-10"
                     >
-                      Commercial<br />Building
+                    lorem ipsum
                     </h2>
                     <p class="u-text u-text-11">
                       Sample text. Lorem ipsum dolor sit amet, consectetur
@@ -2969,7 +2969,7 @@
                     <h2
                       class="u-custom-font u-font-titillium-Web u-text u-text-12"
                     >
-                      Residential<br />Building
+                    lorem ipsum
                     </h2>
                     <p class="u-text u-text-13">
                       Sample text. Lorem ipsum dolor sit amet, consectetur
@@ -3017,7 +3017,7 @@
                     <h2
                       class="u-custom-font u-font-titillium-Web u-text u-text-14"
                     >
-                      Restaurant&nbsp;<br />Facilities
+                      lorem ipsum
                     </h2>
                     <p class="u-text u-text-15">
                       Sample text. Lorem ipsum dolor sit amet, consectetur
@@ -3050,7 +3050,7 @@
                 class="u-container-layout u-similar-container u-container-layout-1"
               >
                 <a
-                  href="https://nicepage.com/k/arabic-style-html-templates"
+                  href=""
                   class="u-active-none u-align-center u-border-3 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-text-white u-btn-1"
                   >Hyperlink</a
                 >
@@ -3061,7 +3061,7 @@
                 class="u-container-layout u-similar-container u-container-layout-2"
               >
                 <a
-                  href="https://nicepage.com/k/arabic-style-html-templates"
+                  href=""
                   class="u-active-none u-align-center u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-text-white u-btn-2"
                   >Hyperlink</a
                 >
@@ -3072,7 +3072,7 @@
                 class="u-container-layout u-similar-container u-container-layout-3"
               >
                 <a
-                  href="https://nicepage.com/k/arabic-style-html-templates"
+                  href=""
                   class="u-active-none u-align-center u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-text-white u-btn-3"
                   >Hyperlink</a
                 >
@@ -3092,7 +3092,7 @@
                 class="u-container-layout u-similar-container u-container-layout-4"
               >
                 <a
-                  href="https://nicepage.com/k/arabic-style-html-templates"
+                  href=""
                   class="u-active-none u-align-center u-border-3 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-text-white u-btn-4"
                   >Hyperlink</a
                 >
@@ -3103,7 +3103,7 @@
                 class="u-container-layout u-similar-container u-container-layout-5"
               >
                 <a
-                  href="https://nicepage.com/k/arabic-style-html-templates"
+                  href=""
                   class="u-active-none u-align-center u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-text-white u-btn-5"
                   >Hyperlink</a
                 >
@@ -3114,7 +3114,7 @@
                 class="u-container-layout u-similar-container u-container-layout-6"
               >
                 <a
-                  href="https://nicepage.com/k/arabic-style-html-templates"
+                  href=""
                   class="u-active-none u-align-center u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-palette-1-base u-btn u-button-style u-custom-item u-hover-none u-none u-text-white u-btn-6"
                   >Hyperlink</a
                 >
@@ -3144,7 +3144,7 @@
             class="u-social-url"
             title="facebook"
             target="_blank"
-            href="https://facebook.com/name"
+            href=""
             ><span
               class="u-icon u-social-facebook u-social-icon u-text-white u-icon-1"
               ><svg
@@ -3175,7 +3175,7 @@ c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"
             class="u-social-url"
             title="twitter"
             target="_blank"
-            href="https://twitter.com/name"
+            href=""
             ><span
               class="u-icon u-social-icon u-social-twitter u-text-white u-icon-2"
               ><svg
@@ -3209,7 +3209,7 @@ c0-7.4,3.4-18.8,18.8-18.8h13.8v15.4H75.5z"
             class="u-social-url"
             title="instagram"
             target="_blank"
-            href="https://instagram.com/name"
+            href="https://www.instagram.com/shikayri.exe/"
             ><span
               class="u-icon u-social-icon u-social-instagram u-text-white u-icon-3"
               ><svg
