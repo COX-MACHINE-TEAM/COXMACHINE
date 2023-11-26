@@ -503,7 +503,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-16">
                       <a class="u-post-header-link" href="blog/post-5.html"
-                        >Post 6 Headline</a
+                        >Post 1 Headline</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -535,7 +535,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-18">
                       <a class="u-post-header-link" href="blog/post-4.html"
-                        >Post 5 Headline</a
+                        >Post 2 Headline</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -569,7 +569,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-20">
                       <a class="u-post-header-link" href="blog/post-3.html"
-                        >Post 4 Headline</a
+                        >Post 3 Headline</a
                       >
                     </h2>
                     <!--/blog_post_header-->
@@ -742,7 +742,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
@@ -1002,7 +1002,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
@@ -1262,7 +1262,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
