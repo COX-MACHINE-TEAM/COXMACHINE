@@ -481,7 +481,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
@@ -1523,7 +1523,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
@@ -1783,7 +1783,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
@@ -2043,7 +2043,7 @@
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-14"
             >
-              products
+              News
             </h4>
             <h4
               class="u-align-center u-text u-text-custom-color-3 u-text-default u-text-15"
