@@ -12,18 +12,8 @@
         <link rel="stylesheet" href="css/Home.css" media="screen" />
 
     <!-- script -->
-        <script
-          class="u-script"
-          type="text/javascript"
-          src="jquery.js"
-          defer=""
-        ></script>
-        <script
-          class="u-script"
-          type="text/javascript"
-          src="nicepage.js"
-          defer=""
-        ></script>
+        <script class="u-script" type="text/javascript" src="{{ asset('js/jquery.js') }}" defer=""></script>
+        <script class="u-script" type="text/javascript" src="{{ asset('js/nicepage.js') }}" defer=""></script>
         <meta name="generator" content="Nicepage 5.19.3, nicepage.com" />
         <meta property="og:title" content="COX MACHINE" />
         <link
@@ -51,6 +41,7 @@
         <meta name="twitter:description" content="" />
         <meta property="og:type" content="website" />
         <meta data-intl-tel-input-cdn-path="intlTelInput/" />
+        
     <!-- script -->
 </head>
 
