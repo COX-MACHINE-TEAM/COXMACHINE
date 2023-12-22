@@ -264,6 +264,13 @@
           class="u-align-center u-container-style u-custom-border u-group u-opacity u-opacity-90 u-radius-30 u-shape-round u-uploaded-video u-white u-group-1"
         >
           <div class="u-container-layout u-container-layout-1">
+            <img
+              class="u-image u-image-contain u-image-default u-image-1"
+              src="images/LogoUpscallednobg.png"
+              alt=""
+              data-image-width="564"
+              data-image-height="484"
+            />
             <h2 class="u-text u-text-custom-color-1 u-text-default u-text-1">
               Contact-us
             </h2>

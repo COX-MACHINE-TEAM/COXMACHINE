@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-
+@csrf
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -46,13 +46,13 @@
 
             <!-- Nav Item - Dashboard -->
             <li class="nav-item">
-                <a class="nav-link" href="index.html">
+                <a class="nav-link" href="{{ url('/admin.dashboard') }}">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Dashboard</span></a>
             </li>   
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link " href="latest_information.html" >
+                <a class="nav-link " href="{{ url('/admin.latest_information') }}" >
                     <i class="fas fa-fw fa-cog"></i>
                     <span>latest Information</span>
                 </a>
@@ -60,14 +60,14 @@
 
             <!-- Nav Item - Utilities Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link " href="cox_content.html">
+                <a class="nav-link " href="{{ url('/admin.cox_content') }}">
                     <i class="fas fa-fw fa-wrench"></i>
                     <span>cox content</span>
                 </a>
             </li>
             <!-- Nav Item - Pages Collapse Menu -->
             <li class="nav-item">
-                <a class="nav-link " href="about.html" >
+                <a class="nav-link " href="{{ url('/admin.about') }}" >
                     <i class="fas fa-fw fa-folder"></i>
                     <span>about</span>
                 </a>
@@ -75,32 +75,32 @@
 
             <!-- Nav Item - Charts -->
             <li class="nav-item">
-                <a class="nav-link" href="video.html">
+                <a class="nav-link" href="{{ url('/admin.video') }}">
                     <i class="fas fa-fw fa-video"></i>
                     <span>video</span></a>
             </li>
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="Agenda.html">
+                <a class="nav-link" href="{{ url('/admin.Agenda') }}">
                     <i class="fas fa-fw fa-book"></i>
                     <span>Agenda</span></a>
             </li>
             <!-- Nav Item - Portofolio -->
             <li class="nav-item">
-                <a class="nav-link" href="portofolio.html">
+                <a class="nav-link" href="{{ url('/admin.portofolio') }}">
                     <i class="fas fa-fw fa-book"></i>
                     <span>Portofolio</span></a>
             </li>
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="Roadmap.html">
+                <a class="nav-link" href="{{ url('/admin.roadmap') }}">
                     <i class="fas fa-fw fa-book"></i>
                     <span>Roadmap</span></a>
                 </li>
                 <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="structure_of_organization.html">
+                <a class="nav-link" href="{{ url('/admin.structure_of_organization') }}">
                     <i class="fa-solid fa-people-group"></i>
                     <span>Structure of Organization</span></a>
             </li>
@@ -180,37 +180,31 @@
             <div class="container-fluid">
 
         <!-- Page Heading -->
-        <h1 class="h3 mb-2 text-gray-800">Tambah data</h1>
+        <h1 class="h3 mb-2 text-gray-800">cox content</h1>
         
         <!-- table -->
-        <div class="card card-info card-outline">
-            <div class="card-header">
-                <div class="card-tools">
-                    <a href="#" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
-                </div>
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label>judul</label>
+                <input type="text" class="form-control" name="nama" value="">
             </div>
-
-            <div class="card-body">
-                <div class="table-responsive">
-                <table class="table table-bordered">
-                    <tr>
-                        <th>judul</th>
-                        <th>deskripsi</th>
-                        <th>tanggal</th>
-                        <th>action</th>
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td>
-                            <a href="#" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
-                            <a href="#" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
-                        </td>
-                    </tr>
-                </table>
-
+            <div class="form-group">
+                <label>des</label>
+                <input type="text" class="form-control" name="" value="" >
+            
+            <div class="form-group">
+                <label>Deskripsi</label>
+                <textarea class="form-control" name="deskripsi" rows="10"></textarea>
             </div>
-        </div>
+            <div class="form-group">
+                <img src="" width="200">
+            </div>
+            <div class="form-group">
+                <label>Ganti foto</label>
+                <input type="file" class="form-control" name="foto">
+            </div>
+            <button class="btn btn-primary" name="ubah">change</button>
+        </form>
+        
         </div>
     </div>

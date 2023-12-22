@@ -9,4 +9,6 @@ class Cox_Content extends Model
 {
     use HasFactory;
     protected $table = 'cox_contents';
+
+    
 }

@@ -173,3 +173,38 @@
                     </ul>
 
                 </nav>
+        <!-- End of Sidebar -->
+        
+        <div class="wrapper">
+        
+            <div class="container-fluid">
+
+        <!-- Page Heading -->
+        <h1 class="h3 mb-2 text-gray-800">cox content</h1>
+        
+        <!-- table -->
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label>judul</label>
+                <input type="text" class="form-control" name="nama" value="">
+            </div>
+            <div class="form-group">
+                <label>des</label>
+                <input type="text" class="form-control" name="" value="" >
+            
+            <div class="form-group">
+                <label>Deskripsi</label>
+                <textarea class="form-control" name="deskripsi" rows="10"></textarea>
+            </div>
+            <div class="form-group">
+                <img src="" width="200">
+            </div>
+            <div class="form-group">
+                <label>Ganti foto</label>
+                <input type="file" class="form-control" name="foto">
+            </div>
+            <button class="btn btn-primary" name="ubah">change</button>
+        </form>
+        
+        </div>
+    </div>

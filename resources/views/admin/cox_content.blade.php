@@ -186,7 +186,7 @@
         <div class="card card-info card-outline">
             <div class="card-header">
                 <div class="card-tools">
-                    <a href="#" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
+                    <a href=" admin.cox_content/{{$Cox_Content->$id}}" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
                 </div>
             </div>
 
@@ -195,6 +195,7 @@
                 <table class="table table-bordered">
                     <thead>
                         <tr>
+                            <th>no</th>
                             <th>judul</th>
                             <th>deskripsi</th>
                             <th>tanggal</th>
@@ -205,6 +206,7 @@
                     <tbody>
                         <tr>
                             @foreach ($Cox_Content as $item )
+                            <td>{{$loop->iteration}}</td>
                             <td>{{ $item->title }}</td>
                             <td>{{ $item->content }}</td>
                             <td></td>
@@ -212,13 +214,12 @@
                             <td>
                                 <a href="#" class="btn btn-warning">edit <i></i> </a>
                                 <a href="#" class="btn btn-danger">delete<i></i> </a>
-                                <a href="#" class="btn btn-primary">detail<i></i> </a>
+                                <a href="admin.cox_content/{{$item->id}}" class="btn btn-primary">detail<i></i> </a>
                             </td>
                         </tr>
                     </tbody>
                     @endforeach
                 </table>
-
             </div>
         </div>
         </div>

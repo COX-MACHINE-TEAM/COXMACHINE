@@ -174,41 +174,47 @@
 
                 </nav>
         <!-- End of Sidebar -->
-
+        
+        
+        <div class="wrapper">
+        
             <div class="container-fluid">
-                <!-- Page Heading -->
-                <h1 class="h3 mb-2 text-gray-800">Tables</h1>
-                <!-- table -->
-                <div class="card card-info card-outline">
-                    <div class="card-header">
-                        <div class="card-tools">
-                            <a href="#" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
-                        </div>
-                    </div>
 
-                    <div class="card-body">
-                        <div class="table-responsive">
-                            <table class="table table-bordered">
-                                <tr>
-                                    <th>no</th>
-                                    <th>judul</th>
-                                    <th>deskripsi</th>
-                                    <th>tanggal</th>
-                                    <th>action</th>
-                                </tr>
-                                <tr>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td></td>
-                                    <td>
-                                        <a href="#" class="btn btn-warning">edit <i></i> </a>
-                                        <a href="#" class="btn btn-danger">delete<i></i> </a>
-                                        <a href="#" class="btn btn-primary">detail<i></i> </a>
-                                    </td>>
-                                </tr>
-                            </table>
-                        </div>
-                    </div>
+        <!-- Page Heading -->
+        <h1 class="h3 mb-2 text-gray-800">video</h1>
+        
+        <!-- table -->
+        <div class="card card-info card-outline">
+            <div class="card-header">
+                <div class="card-tools">
+                    <a href="#" class="btn btn-success">Tambah data <i class="fa fa-plus-square"></i> </a>
                 </div>
             </div>
+
+            <div class="card-body">
+                <div class="table-responsive">
+                <table class="table table-bordered">
+                    <tr>
+                        <th>judul</th>
+                        <th>deskripsi</th>
+                        <th>video</th>
+                        <th>tanggal</th>
+                        <th>action</th>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>
+                            <a href="#" class="btn btn-warning">edit <i></i> </a>
+                            <a href="#" class="btn btn-danger">delete<i></i> </a>
+                            <a href="#" class="btn btn-primary">detail<i></i> </a>
+                        </td>
+                    </tr>
+                </table>
+
+            </div>
+        </div>
+        </div>
+    </div>

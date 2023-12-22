@@ -175,12 +175,13 @@
                 </nav>
         <!-- End of Sidebar -->
         
+        
         <div class="wrapper">
         
             <div class="container-fluid">
 
         <!-- Page Heading -->
-        <h1 class="h3 mb-2 text-gray-800">Structure of organization</h1>
+        <h1 class="h3 mb-2 text-gray-800">Structur of Organization</h1>
         
         <!-- table -->
         <div class="card card-info card-outline">
@@ -196,10 +197,12 @@
                     <tr>
                         <th>judul</th>
                         <th>deskripsi</th>
+                        <th>foto</th>
                         <th>tanggal</th>
                         <th>action</th>
                     </tr>
                     <tr>
+                        <td></td>
                         <td></td>
                         <td></td>
                         <td></td>

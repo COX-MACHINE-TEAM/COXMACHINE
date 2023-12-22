@@ -15,4 +15,13 @@ class Cox_ContentController extends Controller
         // Kirim data ke view
         return view('admin.cox_content', ['Cox_Content' => $coxcontent]);
     }
+    
+    public function show($id)
+    {
+        // mencari data dari tabel cox_content
+        $coxcontent = Cox_Content::find($id);
+
+        // Kirim data ke view
+        return view('admin.create_cox_content', ['Cox_Content' => $coxcontent]);
+    }
 }
