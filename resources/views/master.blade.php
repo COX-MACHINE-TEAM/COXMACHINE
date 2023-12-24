@@ -10,6 +10,7 @@
     <!-- css -->
         <link rel="stylesheet" href="css/nicepage.css" media="screen" />
         <link rel="stylesheet" href="css/Home.css" media="screen" />
+        
 
     <!-- script -->
         <script class="u-script" type="text/javascript" src="{{ asset('js/jquery.js') }}" defer=""></script>
@@ -46,11 +47,13 @@
 </head>
 
 
+
   <body
     data-path-to-root="./"
     class="u-body u-overlap u-overlap-transparent u-stick-footer u-xl-mode"
     data-lang="en"
   >
+  @csrf
     <header
       class="u-box-shadow u-clearfix u-header u-sticky u-sticky-ae83 u-header"
       id="sec-e415"
@@ -97,7 +100,7 @@
               <li class="u-nav-item">
                 <a
                   class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base"
-                  href="Home.html"
+                  href="/"
                   style="padding: 10px 20px"
                   >Home</a
                 >
@@ -105,7 +108,7 @@
               <li class="u-nav-item">
                 <a
                   class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base"
-                  href="#"
+                  href="{{ url('/about') }}"
                   style="padding: 10px 20px"
                   >About</a
                 >
@@ -113,7 +116,7 @@
               <li class="u-nav-item">
                 <a
                   class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base"
-                  href="#"
+                  href="{{ url('/contact') }}"
                   style="padding: 10px 20px"
                   >Contact</a
                 >
@@ -121,7 +124,7 @@
               <li class="u-nav-item">
                 <a
                   class="u-button-style u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base"
-                  href="Sign-In.html"
+                  href="{{ url('/sign-in') }}"
                   style="padding: 10px 20px"
                   >sign in</a
                 >
@@ -159,7 +162,7 @@
                     >
                   </li>
                   <li class="u-nav-item">
-                    <a class="u-button-style u-nav-link" href="#">About</a>
+                    <a class="u-button-style u-nav-link" href="{{ url('/about') }}>About</a>
                   </li>
                   <li class="u-nav-item">
                     <a class="u-button-style u-nav-link" href="#">Contact</a>
@@ -1796,7 +1799,7 @@
                     <!--blog_post_header-->
                     <h2 class="u-blog-control u-text u-text-16">
                       <a class="u-post-header-link" href="blog/post-5.html"
-                        >Headline 1</a
+                        >Post 6 Headline 1</a
                       >
                     </h2>
                     <!--/blog_post_header-->
